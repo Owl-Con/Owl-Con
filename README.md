@@ -1,16 +1,23 @@
-## Hi there 👋
+## Moto
+It’s not about reaching the goal, it’s all about the adventure and the ~~mistakes made~~ lessons learned along the way. Besides, every mistake is a story waiting to be told.
 
-<!--
-**Owl-Con/Owl-Con** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+🛠️ Tools
 
-Here are some ideas to get you started:
+[![Tools](https://skillicons.dev/icons?i=phpstorm,vscode,github,gitlab)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⌨️ Current fairly boring tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,git,mysql)](https://skillicons.dev)
+
+🪜 Skills currently acquiring
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+🕰️ Skills I’m planning to acquire one day
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,redis)](https://skillicons.dev)
+
+## Boring stats for nerds
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-Con&show_icons=true&theme=chartreuse-dark)](https://github.com/Owl-Con)
